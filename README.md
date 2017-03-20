@@ -1,2 +1,3 @@
 # hello-world
-test is a start
+test
+commit testing
